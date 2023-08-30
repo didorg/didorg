@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Didier Roque Ginebra</h1>
+<h1 align="center">Hi 👋🏻, I'm Didier</h1>
 <h3 align="center">A passionate software engineer from sunny Florida☀️🌴 (USA).</h3>  
 
 <h3 align="center">Connect with me:</h3>
