@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from sunny Florida☀️🌴 (USA).</h3>  
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-[DGinebra.com](https://www.dginebra.com/)
+**[DGinebra](https://www.dginebra.com/)**
 
 - 🔭 I'm a dreamer by nature
 
