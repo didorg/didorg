@@ -8,7 +8,7 @@
 
 - 🌱 Every day is an opportunity for me to **learn and grow**
 
-- 💬 Ask me about **Java , NodeJS, Python, TypeScript, JavaScript, Angular, Microservices**
+- 💬 Ask me about **Java , NodeJS, Python, TypeScript, JavaScript, React, Angular, Microservices**
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/didier-roque-ginebra/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/didier-roque-ginebra/" height="20" width="20" /></a>
 
