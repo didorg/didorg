@@ -84,7 +84,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/didier-roque-ginebra/)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DidierRoque)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/didier.roque/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.dginebra.com/contact)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.dginebra.com/)
 
 </div>
 
